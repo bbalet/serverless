@@ -1,0 +1,6 @@
+mysetenv.sh
+mysetenv.ps1
+mysetenv.yaml
+counter.exe
+.vscode/
+!.gitign

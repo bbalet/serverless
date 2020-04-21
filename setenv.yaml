@@ -1,0 +1,5 @@
+MYSQL_USER: "bob"
+MYSQL_PWD: "password"
+MYSQL_DBNAME: "openfaas"
+MYSQL_ADDRESS: "127.0.0.1"
+MYSQL_PORT: "3306"
